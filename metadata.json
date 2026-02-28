@@ -1,0 +1,7 @@
+{
+  "name": "TPRM AI Assistant MVP",
+  "description": "An AI-powered Third-Party Risk Management platform for continuous cyber-risk assessment, featuring dynamic scoping, RAG-based evidence analysis, and human-in-the-loop validation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
