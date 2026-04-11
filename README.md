@@ -1,20 +1,40 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🤖 Seminario de Maestría en Inteligencia Artificial - UNIR México
 
-# Run and deploy your AI Studio app
+Este repositorio contiene el desarrollo del **Asistente de Inteligencia Artificial (TPRM Inteligencia Artificial Assistant MVP)**, un proyecto diseñado y ejecutado como parte del Seminario de la **Maestría en Inteligencia Artificial** de la **UNIR México**.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/a6da77be-6157-42df-83e6-b09c0d1b7e13
+## 🚀 Despliegue
+La aplicación está desplegada y puede ser probada en el siguiente enlace:
+🔗 **[Acceder al TPRM Inteligencia Artificial Assistant MVP](https://tprm-ai-assistant-mvp-126376686352.us-west1.run.app)**
 
-## Run Locally
+---
 
-**Prerequisites:**  Node.js
+## 👥 Equipo de Desarrollo
+El proyecto fue elaborado por:
 
+* **Miryam Janeth Hurtado Cuevas**
+* **Angel Giovanni Barajas Moreno**
+* **Víctor Hisiquio Santiago**
+* **Samuel Trejo Granados**
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
+
+## 🛠️ Stack Tecnológico
+Para la construcción de este MVP se utilizaron tecnologías de vanguardia que garantizan escalabilidad y velocidad:
+
+* **Frontend:** [React](https://reactjs.org/) + [TypeScript](https://www.typescriptlang.org/)
+* **Construcción:** [Vite](https://vitejs.dev/)
+* **Estilos:** [Tailwind CSS](https://tailwindcss.com/)
+* **Motor de Inteligencia Artificial:** [Google Gemini API](https://ai.google.dev/)
+* **Infraestructura:** [Google Cloud Run](https://cloud.google.com/run)
+
+---
+
+## 📦 Instalación y Configuración Local
+
+Si deseas replicar este proyecto localmente, sigue estas instrucciones:
+
+1. **Clonar el repositorio:**
+   ```bash
+   git clone https://github
