@@ -29,12 +29,3 @@ Para la construcción de este MVP se utilizaron tecnologías de vanguardia que g
 * **Motor de Inteligencia Artificial:** [Google Gemini API](https://ai.google.dev/)
 * **Infraestructura:** [Google Cloud Run](https://cloud.google.com/run)
 
----
-
-## 📦 Instalación y Configuración Local
-
-Si deseas replicar este proyecto localmente, sigue estas instrucciones:
-
-1. **Clonar el repositorio:**
-   ```bash
-   git clone https://github
